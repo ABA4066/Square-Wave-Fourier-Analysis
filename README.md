@@ -23,6 +23,8 @@ Where:
 ## 📊 Results
 
 
+<img width="1072" height="680" alt="Square_Wave(50,5)" src="https://github.com/user-attachments/assets/ba0542b0-8b30-4ab5-8d4d-5afa1b00fd8d" />
+
 
 ## 🚀 Usage
 
